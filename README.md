@@ -2,7 +2,7 @@
 
 ## Sobre mí
 
-¡Hola! Soy **Pablo Iglesias Prieto** y estoy estudiando un curso de especialización en **Inteligencia Artificial y Big Data**.
+<p>Hola, soy **Pablo Iglesias Prieto** y estoy estudiando un curso de especialización en **Inteligencia Artificial y Big Data**.</p>
 
 ## Lenguajes que he utilizado
 
