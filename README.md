@@ -2,14 +2,16 @@
 
 ## Sobre mí
 
-<p>Hola, soy **Pablo Iglesias Prieto** y estoy estudiando un curso de especialización en **Inteligencia Artificial y Big Data**.</p>
+¡Hola! Soy **Pablo Iglesias Prieto** y estoy estudiando un curso de especialización en *Inteligencia Artificial y Big Data*.
+
+Me interesa aprender y crear proyectos con distintos lenguajes y tecnologías.
 
 ## Lenguajes que he utilizado
 
-- Java
-- Python
-- Kotlin
-- JavaScript
+- [Java](https://dev.java/)
+- [Python](https://www.python.org/)
+- [Kotlin](https://kotlinlang.org/)
+- [JavaScript](https://developer.mozilla.org/es/docs/Web/JavaScript)
 
 ## Tecnologías
 
@@ -17,3 +19,7 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+---
+
+> *Siempre aprendiendo y explorando nuevas tecnologías.*
